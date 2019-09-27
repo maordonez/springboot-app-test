@@ -1,0 +1,16 @@
+[
+  {
+		"codigo": "1145634",
+		"nombre": "pepito",
+		"apellido": "perez",
+		"direccion": "calle falsa",
+		"telefono": "3142747308"
+	},
+	{
+		"codigo": "1145635",
+		"nombre": "juanito",
+		"apellido": "rojas",
+		"direccion": "calle falsa",
+		"telefono": "3142747322"
+	}
+]
